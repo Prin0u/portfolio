@@ -6,7 +6,7 @@ function App() {
       <Navbar />
 
       <div className="container py-5 text-center">
-        <h1>Mon portfolio</h1>;
+        <h1>Développeur Web Full Stack</h1>
       </div>
     </>
   );
