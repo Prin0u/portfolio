@@ -64,4 +64,7 @@
     align-items: center;
     gap: 30px;
   }
+  .skills h2 {
+    font-size: 30px;
+  }
 }
