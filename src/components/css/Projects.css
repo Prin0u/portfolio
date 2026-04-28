@@ -40,6 +40,9 @@
   justify-content: center;
   gap: 15px;
 }
+.mail-test {
+  opacity: 0.75;
+}
 
 /* bouton principal */
 .btn-project {

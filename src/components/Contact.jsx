@@ -41,7 +41,10 @@ function Contact() {
               <FaEnvelope className="icon" />
               geoffrey.dev01@gmail.com
             </a>
-            <a href="https://linkedin.com" target="_blank">
+            <a
+              href="https://www.linkedin.com/in/geoffrey-chenivesse-247710406/"
+              target="_blank"
+            >
               <FaLinkedin className="icon" />
               Linkedin
             </a>

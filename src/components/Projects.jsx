@@ -9,6 +9,7 @@ function Projects() {
           <h3>Trouve ton artisan</h3>
           <img src="./images/project1.png" alt="Projet 1" />
           <p>Application web développée en React.JS.</p>
+
           <div className="project-buttons">
             <a
               href="https://devoir-trouve-ton-artisan.vercel.app"
@@ -33,6 +34,10 @@ function Projects() {
             Application web développée en PHP avec base de données en
             PostgreSQL.
           </p>
+          <p className="mail-test">
+            Accès test utilisateur : sophie.dubois@email.fr / password123 Accès
+            test admin : alexandre.martin@email.fr / password123
+          </p>
           <div className="project-buttons">
             <a
               href="https://touche-pas-au-klaxon.onrender.com"
@@ -56,6 +61,7 @@ function Projects() {
           <img src="./images/project3.png" alt="Projet 3" />
 
           <p>API REST Express.</p>
+          <p className="mail-test">Accès test : admin@exemple.com / admin123</p>
           <div className="project-buttons">
             <a
               href="https://devoir-api-port-plaisance-russell.onrender.com"
